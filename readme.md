@@ -15,10 +15,9 @@ This is a one page responsive business web page for Rayns painting business. I u
 </ul>
 
 <h4>Preview: Page Heading and Business Logo</h4>
-![image](/static/img/header-image.png "Intro")
+![image](/static/img/preview1.jpg "Intro")
 
 <h4>Preview: Page content includes: about, values, services</h4>
-![image](/static/img/about-page.png "Content")
+![image](/static/img/preview2.jpg "Content")
 
-<h4>Preview: Contact page and Footer</h4>
-![image](/static/img/contact-page.png "Contact")
+
