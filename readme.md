@@ -21,3 +21,4 @@ This is a one page responsive business web page for Rayns painting business. I u
 ![image](/static/img/preview2.jpg "Content")
 
 
+![alt text](static/img/Screen Shot 2016-02-04 at 12.08.52 AM.png "Description goes here")
