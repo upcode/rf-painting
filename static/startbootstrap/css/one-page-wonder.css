@@ -17,6 +17,7 @@ body {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;*/
+    
 }
  h4 {
     color: #0644B0;
@@ -43,7 +44,7 @@ small.text-muted {
 
 .featurette-divider {
     margin: 80px 0;
-     color: #0644B0;
+
 }
 
 .featurette {
