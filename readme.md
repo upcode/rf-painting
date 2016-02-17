@@ -15,7 +15,6 @@ This is a one page responsive business web page for Rayns painting business. I u
 </ul>
 
 <h4>Preview: Page Heading and Business Logo</h4>
-![ScreenShot](static/img/Screen Shot 2016-02-17 at 11.22.00 AM.png "Page Header")
-
+![preview1](https://cloud.githubusercontent.com/assets/6580344/13123301/6824f596-d570-11e5-9d9c-b0305c292fd9.jpg)
 <h4>Preview: Page content includes: about, values, services</h4>
-![ScreenShot](static/img/Screen Shot 2016-02-17 at 11.22.19 AM.png "Page Content")
+![preview2](https://cloud.githubusercontent.com/assets/6580344/13123309/721f18f6-d570-11e5-87df-688c01f96f40.jpg)
