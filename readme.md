@@ -1,20 +1,24 @@
 <h1>Project:</h1>
-<p>Ryan Fanelli Painting, Inc Business Website</h1>
-<p>One Page Responsive Business Web Page for  Rayns painting business<p>
+<p>Ryan Fanelli Painting, Inc Business Website.
+This is a one page responsive business web page for Rayns painting business. I used bootstrap to construct the layout. Added Ryan's logo and business colors to make site authentic to business and owner.<p>
 
 <h1>Techology Stack:</h1>
-Python
-Flask
-HTML5
-CSS3
-Bootstrap
-Github Pages
-Name.com [DNS]
+<ul>
+<li>Python</li>
+<li>Flask</li>
+<li>HTML5</li>
+<li>CSS3</li>
+<li>Bootstrap</li>
+<li>Github Pages</li>
+<li>Name.com [DNS]</li>
 <h1>Preview:</h1>
+</ul>
 
 <h4>Preview: Page Heading and Business Logo</h4>
-![image](../static/img/readme/intro.jpg "Intro")
+![image](/static/img/intro.jpg "Intro")
+
 <h4>Preview: Page content includes: about, values, services</h4>
-![image](../static/img/readme/about.jpg "Content")
+![image](/static/img/about.jpg "Content")
+
 <h4>Preview: Contact page and Footer</h4>
-![image](../static/img/readme/contact.jpg "Contact")
+![image](/static/img/contact.jpg "Contact")
