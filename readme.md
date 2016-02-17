@@ -13,8 +13,8 @@ Name.com [DNS]
 <h1>Preview:</h1>
 
 <h4>Preview: Page Heading and Business Logo</h4>
-![alt img](static/img/readme/intro.jpg "Intro")
+![image](static/img/readme/intro.jpg "Intro")
 <h4>Preview: Page content includes: about, values, services</h4>
-![alt img](static/img/readme/about.jpg "Content")
+![image](static/img/readme/about.jpg "Content")
 <h4>Preview: Contact page and Footer</h4>
-![alt img](static/img/readme/contact.jpg "Contact")
+![image](static/img/readme/contact.jpg "Contact")
