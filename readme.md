@@ -11,10 +11,10 @@ Bootstrap
 Github Pages
 Name.com [DNS]
 <h1>Preview:</h1>
-Inline-style: 
+
 <h4>Preview: Page Heading and Business Logo</h4>
-![alt text](/static/img/readme/intro.jpg "Intro")
+![alt img](static/img/readme/intro.jpg "Intro")
 <h4>Preview: Page content includes: about, values, services</h4>
-![alt text](/static/img/readme/about.jpg "Content")
+![alt img](static/img/readme/about.jpg "Content")
 <h4>Preview: Contact page and Footer</h4>
-![alt text](/static/img/readme/contact.jpg "Contact")
+![alt img](static/img/readme/contact.jpg "Contact")
