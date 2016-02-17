@@ -18,6 +18,6 @@ This is a one page responsive business web page for Rayns painting business. I u
 ![alt text](static/img/Screen Shot 2016-02-17 at 11.22.00 AM.png "Page Header")
 
 <h4>Preview: Page content includes: about, values, services</h4>
-![alt text](static/img/Screen Shot 2016-02-17 at 11.22.19 A.png "Page Content")
+![alt text](static/img/Screen Shot 2016-02-17 at 11.22.19 AM.png "Page Content")
 
 
