@@ -10,6 +10,10 @@
     <meta name="author" content="">
 
     <title>Ryan Fanelli Painting, Inc</title>
+    <link rel="stylesheet" type="text/css" href="/static/css/animate.css" />
+    <script src="/static/js/viewportchecker.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
 
     <!-- Bootstrap Core CSS -->
     <link href="/static/startbootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -23,8 +27,19 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+<script>
+jQuery(document).ready(function() {
+    jQuery('.post').addClass("hidden").viewportChecker({
+        classToAdd: 'visible animated fadeIn',
+        offset: 100
+       });
+});
+</script>
+<style>
 
+</style>
 </head>
+
 
 <body>
 
@@ -68,7 +83,10 @@
                     <img class="img-responsive" src="/static/img/ryan.jpg" height="400" width="750" alt="">
                 </center>
                 <h1>Ryan Fanelli</h1>
-                <h2>Quality Exellencent Paitning Solutions</h2>
+                <h3>Quality Exellencent Paitning Solutions</h3>
+                <center>
+                 <img src="static/img/painting-men_burned.png" heigh="300" width="300" class="img-responsive" alt="">
+             </center>
             </div>
         </div>
     </header>
@@ -80,14 +98,16 @@
 
         <!-- First Featurette -->
         <div class="featurette" id="about">
-            <center>
-            <img src="static/img/men-3.jpg" class="img-responsive img-centered" alt="">
-        </center>
+          
 
-            <h2 class="featurette-heading">About
-                <small class="text-muted">Fanelli Painting Inc</small>
-            </h2>
-            <p class="lead">Ryan Fanelli painting provides high quality professional painting services. Owner has 20 years of knowledge and experience.
+            <center><h2 class="featurette-heading">About
+                <br><small class="text-muted">Fanelli Painting Inc</small>
+            </h2><center>
+              <center>
+            
+             <img class="img-responsive" src="static/img/paint2.png" height="50" width="50" alt="" >
+        </center>
+            <p class="lead animation-element slide-left">Ryan Fanelli painting provides high quality professional painting services. Owner has 20 years of knowledge and experience.
                                 All work is done with neatness and the steps taken to create an outstanding finish product. Employees are trust worthy and considerate to all contractors, subs and homeowners. We provide a job that has customers thrilled with the results and always has returning clients!</p>
         </div>
 
@@ -95,14 +115,15 @@
 
         <!-- Second Featurette -->
         <div class="featurette" id="services">
-            <img class="img-responsive" src="static/img/paint2.png" height="50" width="50" alt="" align="left">
-            <h2 class="featurette-heading">Values and Philosophy
-                <small class="text-muted">Our Mission</small>
+           
+            <center><h2 class="featurette-heading">Values and Philosophy
+               <br><small class="text-muted">Our Mission</small></cnter>
             </h2>
-            <p class="lead">We value building relationship with our customers, making sure to provide resources and excellent reliable service by the quality of our work. We involve our clients in the process ensure their trust and ensure their vision is me.</p>
             <center>
-            <img src="static/img/painting-men_burned.png" heigh="300" width="300" class="img-responsive" alt="">
+            <img src="static/img/men-3.jpg" class="img-responsive img-centered animation-element slide-left" align="center" alt="">
         </center>
+            <p class="lead">We value building relationship with our customers, making sure to provide resources and excellent reliable service by the quality of our work. We involve our clients in the process ensure their trust and ensure their vision is me.</p>
+          
         </div>
         <div class="row">
                 <div class="col-lg-6">
@@ -155,13 +176,17 @@
 
         <!-- Third Featurette -->
         <div class="featurette" id="contact">
-           <img class="img-responsive" src="static/img/paint2.png" height="50" width="50" alt="" align="left">
-
+       
+<center>
             <h2 class="featurette-heading">Services
-                <small class="text-muted">Quality Exellencent Paitning Solutions</small>
+                <br><small class="text-muted">Quality Paitning Solutions</small>
             </h2>
+            </center>
+            <center>
+             <img class="img-responsive" src="static/img/paint2.png" height="50" width="50" alt="">
+         </center>
             <p class="lead">we value building relationship with our customers, making sure to provide resources and excellent reliable service by the quality of our work. We involve our clients in the process ensure their trust and ensure their vision is me.</p>
-           
+         
         </div>
         <div class="row">
               <div class="col-lg-12">
@@ -209,22 +234,30 @@
 
         <hr class="featurette-divider">
            <!-- Fourth Featurette -->
-        <div class="featurette" id="contact">
-          
+         
+        <div class="featurette contact" id="contact">
+          <center>
             <h2 class="featurette-heading">Contacts
-                <small class="text-muted">for questions, estimation, and services</small>
+                <br><small class="text-muted">Questions . Estimation . Services</small>
             </h2>
+        </center>
+             <center>
+             <img class="img-responsive" src="static/img/paint2.png" height="50" width="50" alt="">
+         </center>
             <p class="lead">Contact us today for all your paiting needs. We will proivde you with all information you need to make Ryan Fanelli Painting your first choice.</p>
         </div>
           <div class="col-lg-12 text-center">
             <center>
               <img src="static/img/men-1.jpg" class="img-responsive img-centered" alt="">
             </center>
-          <center>
-                                                  
-            <button type="button" class="btn btn-xl"><i class="fa fa-envelope-o fa-fw"><a href="mailto:srfanellipainting@gmail.com?Subject=Hello%20again"></i> Contact</a></button>
-            </center>
+          
+<a href="mailto:srfanellipainting@gmail.com?Subject=Hello%20again" class="btn btn-primary btn-lg active" role="button">Email</a>
+
+            
+            <a href="mailto:srfanellipainting@gmail.com?Subject=Hello%20again" class="btn btn-primary btn-lg active" role="button">Call</a>
+            
     <hr class="featurette-divider">
+
 
 <footer>
         <div class="container">

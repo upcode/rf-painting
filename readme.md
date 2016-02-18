@@ -18,3 +18,5 @@ This is a one page responsive business web page for Rayns painting business. I u
 ![preview1](https://cloud.githubusercontent.com/assets/6580344/13123301/6824f596-d570-11e5-9d9c-b0305c292fd9.jpg)
 <h4>Preview: Page content includes: about, values, services</h4>
 ![preview2](https://cloud.githubusercontent.com/assets/6580344/13123309/721f18f6-d570-11e5-87df-688c01f96f40.jpg)
+
+btn btn-secondary btn-lg
